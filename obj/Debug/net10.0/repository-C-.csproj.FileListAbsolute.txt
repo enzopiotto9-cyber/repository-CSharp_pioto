@@ -1,0 +1,15 @@
+C:\Users\DTG-2026\Desktop\repository-C-\bin\Debug\net10.0\repository-C-.exe
+C:\Users\DTG-2026\Desktop\repository-C-\bin\Debug\net10.0\repository-C-.deps.json
+C:\Users\DTG-2026\Desktop\repository-C-\bin\Debug\net10.0\repository-C-.runtimeconfig.json
+C:\Users\DTG-2026\Desktop\repository-C-\bin\Debug\net10.0\repository-C-.dll
+C:\Users\DTG-2026\Desktop\repository-C-\bin\Debug\net10.0\repository-C-.pdb
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.AssemblyInfoInputs.cache
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.AssemblyInfo.cs
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.csproj.CoreCompileInputs.cache
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.sourcelink.json
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.dll
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\refint\repository-C-.dll
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.pdb
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\repository-C-.genruntimeconfig.cache
+C:\Users\DTG-2026\Desktop\repository-C-\obj\Debug\net10.0\ref\repository-C-.dll
